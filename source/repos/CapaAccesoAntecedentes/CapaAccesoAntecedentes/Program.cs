@@ -54,7 +54,7 @@ namespace CapaAccesoAntecedentes
             i.Imp_diagnostica = "bueno";
             i.Fecha_ingreso = DateTime.Now;
             i.Tratamiento = "PARACETAMOL 500Mg";
-        
+         //otro comentario más para ver si me funka git
 
         }
     }
